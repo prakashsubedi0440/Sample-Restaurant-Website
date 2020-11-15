@@ -1,3 +1,11 @@
+
+# To run the project
+- download the zip files
+- Enter to the directory where the file is downloaded
+- install the node module dependencies in Hyper Terminal (HT) with "npm install"
+- To run the app, in HT- npm start
+
+***************************************************************************
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
