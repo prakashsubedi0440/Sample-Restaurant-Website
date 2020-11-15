@@ -1,0 +1,107 @@
+body{
+    background-color: #001417;
+    background-image: url("https://www.transparenttextures.com/patterns/cardboard-flat.png");
+    text-align: center;
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+#title {
+    
+    font-family: "Ubuntu"; 
+    font-size: 3rem; 
+    font-weight: bold;
+   
+   /*font-family: 'Open Sans', sans-serif;
+   font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;*/
+}
+
+ h2 {
+    font-family: "Ubuntu";
+    font-weight: ;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+.carouselContainer {
+    margin: 1%;
+   /* background-color: aquamarine;*/
+}
+
+.carouselImg {
+    height: 500px;
+    width: 75%;
+    margin: 0 auto;
+}
+
+/***ABOUT***/
+
+#about {
+    background-color: #e7c419;
+  /*  box-sizing: border-box;*/
+}
+.aboutContainer {
+    
+    margin: 100px auto 100px auto;
+    padding: 5%;
+    width: 80%;
+    
+   /* display: inline-block;*/
+}
+.content {
+    padding : 1rem;
+    text-align: justify;
+    line-height: 2;
+}
+ 
+.aboutImage {
+    border-radius: 50%;
+    width : 40%;
+    margin: 30px;
+    float: right;
+}
+
+/*MENU*/
+.menu {
+    margin: 100px auto;    
+    width: 80%;
+}
+
+#lunchMenu,#dinnerMenu {
+    background-color: #e7c419;
+    color: white;
+}
+
+.menuContainer {
+    
+}
+#Monday:hover,#Tuesday:hover,#Wednesday:hover,#Thursday:hover,#Friday:hover {
+    background-color: #8d93ab;
+    color: white;
+}
+
+
+
+/**FOOTER***/
+
+footer {
+    text-align: center;
+    padding: 50px 0;
+    margin: 10% auto 0 auto;
+    background-color: #e7c419;
+    /*background-image: url("https://www.transparenttextures.com/patterns/black-linen-2.png"); */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */  
+}
+
+footer p {
+    font-size: 0.8rem;
+    color: ;
+    padding: 5px;
+    margin: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer .fontBrandIcon {
+    margin: 0.5rem 0.5rem;
+}
