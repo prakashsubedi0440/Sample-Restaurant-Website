@@ -1,4 +1,5 @@
-
+# Sample Restaurant Website
+ This is the website I have designed using REACT JS. The website is still incomplete. 
 # To run the project
 - download the zip files
 - Enter to the directory where the file is downloaded
